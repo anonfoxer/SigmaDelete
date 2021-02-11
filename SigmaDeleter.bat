@@ -7,4 +7,7 @@ for /d %%p in ("C:\Users\%userprofile%\AppData\Roaming\.minecraft\Sigma\*Sigma5.
 
 del /s /q "C:\Users\%userprofile%\AppData\Roaming\.minecraft\Sigma\*youtube-dl.exe*"
 for /d %%p in ("C:\Users\%userprofile%\AppData\Roaming\.minecraft\Sigma\*youtube-dl.exe*" do rmdir "%%p" /s /q
+
+del /s /q "C:\Users\%userprofile%\AppData\Roaming\.minecraft\Sigma\*JelloPrelauncher.jar*"
+for /d %%p in ("C:\Users\%userprofile%\AppData\Roaming\.minecraft\Sigma\*JelloPrelauncher.jar*
 exit
