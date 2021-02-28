@@ -1,4 +1,8 @@
 @echo off
+title omikron is a blackie
+
+color 0d
+
 del /s /q "C:\Users\%userprofile%\AppData\Roaming\.minecraft\Sigma\*Sigma5.jar*"
 for /d %%p in ("C:\Users\%userprofile%\AppData\Roaming\.minecraft\Sigma\*Sigma5.jar*" do rmdir "%%p" /s /q
 
@@ -10,4 +14,8 @@ for /d %%p in ("C:\Users\%userprofile%\AppData\Roaming\.minecraft\Sigma\*youtube
 
 del /s /q "C:\Users\%userprofile%\AppData\Roaming\.minecraft\Sigma\*JelloPrelauncher.jar*"
 for /d %%p in ("C:\Users\%userprofile%\AppData\Roaming\.minecraft\Sigma\*JelloPrelauncher.jar*
+
+color 0f
+
+echo Sigma5 has been successfully deleted.
 exit
