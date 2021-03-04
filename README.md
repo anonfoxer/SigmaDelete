@@ -1,1 +1,1 @@
-A less racist, more thoruough, and faster version of a batch file that deletes the Sigma5 Client. 
+Way faster then before, feel fre to DM me with any suggestions: owl#8486
