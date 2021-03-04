@@ -1,1 +1,1 @@
-Feel free to improve this project, also feel free to DM me on discord with your suggestions!
+A less racist and faster version of a batch file that deletes the Sigma5 Client. 
